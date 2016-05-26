@@ -1,4 +1,4 @@
-## Messing with Gradle one step at a time
+## Messing with Gradle and Spark one step at a time
 
 ### 00 Initialize a folder with gradle 
  * create a folder

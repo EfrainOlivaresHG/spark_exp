@@ -35,6 +35,7 @@ hs_err_pid*
 !gradle/wrapper/gradle-wrapper.jar
 !gradle/wrapper/gradle-wrapper.properties
 !version.properties
+metastore_db
 
 # cobertura stuff
 target/
